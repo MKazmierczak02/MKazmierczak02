@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKazmierczak02
 - 👀 I’m interested in programming and motorsports
-- 🌱 I’m currently learning swift and pyth
+- 🌱 I’m currently learning c++ and pyth
 - 📫 How to reach me mkazmierczak024@gmail.com
 
 <!---
