@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MKazmierczak02
 - 👀 I’m interested in programming and motorsports
 - 🌱 I’m currently learning c++ and pyth
-- 📫 How to reach me mkazmierczak024@gmail.com
+- 📫 How to reach me mmichal.kkazmierczak@gmail.com
 
 <!---
 MKazmierczak02/MKazmierczak02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
