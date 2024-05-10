@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MKazmierczak02
-- 👀 I’m interested in programming and motorsports
+- 👀 I’m interested in programming and cryptocurrencies
 - 🌱 I’m python enjoyer, currently learning features of django
 - 📫 How to reach me mmichal.kkazmierczak@gmail.com
 
