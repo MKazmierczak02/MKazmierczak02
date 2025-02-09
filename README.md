@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKazmierczak02
 - 👀 I’m interested in programming and cryptocurrencies
-- 🌱 I’m python enjoyer, currently learning features of django
+- 🌱 I’m Python enjoyer
 - 📫 How to reach me mmichal.kkazmierczak@gmail.com
 
 <!---
